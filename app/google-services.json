@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "517110447997",
+    "firebase_url": "https://attendancecollector-b69ef-default-rtdb.firebaseio.com",
+    "project_id": "attendancecollector-b69ef",
+    "storage_bucket": "attendancecollector-b69ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517110447997:android:d359452f61717eccf59614",
+        "android_client_info": {
+          "package_name": "com.example.attendance_collector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517110447997-g4d8pfbjllekncepruaagpf33514ih9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDny6SxFnF3IPNHNc3w21c1Ue4az180bk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517110447997-g4d8pfbjllekncepruaagpf33514ih9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
